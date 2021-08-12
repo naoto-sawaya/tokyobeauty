@@ -161,8 +161,10 @@ include ($_SERVER['DOCUMENT_ROOT'].'/php/metacsv.php');
 			<h2><img src="img/top/info_ttl.gif" alt="information" /></h2>
 			<dl class="clearfix">
               <dt>2021.08.12</dt>
+              <dd>Gitのテスト3開始しました。</dd>
+			　<dt>2021.08.12</dt>
               <dd>Gitのテスト開始しました。</dd>
-				<dt>2018.02.28</dt>
+		　　　<dt>2018.02.28</dt>
               <dd><a href="/campaign/#camp03">「髪のお悩み卒業キャンペーン」を開始しました！</a></dd>
               <dt>2018.02.23</dt>
               <dd><a href="/media/archive21.php">『VoCE』4月号に掲載されました。</a></dd>
