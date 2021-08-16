@@ -160,7 +160,9 @@ include ($_SERVER['DOCUMENT_ROOT'].'/php/metacsv.php');
 		<div class="information">
 			<h2><img src="img/top/info_ttl.gif" alt="information" /></h2>
 			<dl class="clearfix">
-              <dt>2021.08.12</dt>
+              <dt>2021.08.16</dt>
+              <dd><a href="">Gitのテスト3開始しました。</a></dd>
+				<dt>2021.08.12</dt>
               <dd><a href="">Gitのテスト3開始しました。</a></dd>
               <dt>2021.08.12</dt>
               <dd><a href="">Gitのテスト2開始しました。</a></dd>
